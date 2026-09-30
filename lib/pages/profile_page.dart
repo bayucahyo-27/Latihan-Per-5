@@ -112,7 +112,7 @@ class _ProfilePageState extends State<ProfilePage> {
           ),
           const SizedBox(height: 12),
           const Text(
-            'Muthia Sangadji',
+            'Bayu Cahyo Saputra',
             style: TextStyle(
               fontSize: 20,
               fontWeight: FontWeight.w700,
@@ -121,7 +121,7 @@ class _ProfilePageState extends State<ProfilePage> {
           ),
           const SizedBox(height: 4),
           Text(
-            'includemuthesa@unkhair.ac.id',
+            'bayuaja27@gmail.com',
             style: TextStyle(
               fontSize: 13,
               fontWeight: FontWeight.w400,
